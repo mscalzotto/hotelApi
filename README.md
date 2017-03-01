@@ -1,6 +1,6 @@
 <h2>Examen técnico Almundo.com - Ejercicio 1</h2>
 
-Para levantar la api de hoteles es necesario tener instalado mongo npm (o yarn) y node.js > 4.x
+Para levantar la api de hoteles es necesario tener instalado mongo, npm (o yarn) y node.js > 4.x
 
 <strong>Con npm:</strong>
 
