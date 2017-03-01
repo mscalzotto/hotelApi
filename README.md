@@ -4,16 +4,16 @@
 
 <h3>Para restaurar la base de datos de mongo, parado en la raíz del directorio hotelApi:</h3>
 
-mongoimport -d hotel -c hotels dump/hotels-dump.json
+$ mongoimport -d hotel -c hotels dump/hotels-dump.json
 
 <h3>Con npm:</h3>
 
-npm install<br/>
-npm start
+$ npm install<br/>
+$ npm start
 
 <h3>Con yarn:</h3>
 
-yarn install</br>
-yarn start
+$ yarn install</br>
+$ yarn start
 
 <strong>Documentación:</strong> http://localhost:3000/api/docs
