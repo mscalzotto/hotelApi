@@ -2,18 +2,18 @@
 
 Para levantar la api de hoteles es necesario tener instalado mongo, npm (o yarn) y node.js > 4.x
 
-<strong>Con npm:</strong>
+<h3>Con npm:</h3>
 
-npm install
+npm install<br/>
 npm start
 
-<strong>Con yarn:</strong>
+<h3>Con yarn:</h3>
 
-yarn install
+yarn install</br>
 yarn start
 
-Para restaurar la base de datos de mongo, parado en la raíz del directorio hotelApi:
+<h3>Para restaurar la base de datos de mongo, parado en la raíz del directorio hotelApi:</h3>
 
 mongoimport -d hotel -c hotels dump/hotels-dump.json
 
-Documentación: http://localhost:3000/api/docs
+<strong>Documentación:</strong> http://localhost:3000/api/docs
