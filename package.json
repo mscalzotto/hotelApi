@@ -1,0 +1,19 @@
+{
+  "name": "hotelApi",
+  "version": "1.0.0",
+  "description": "Examen técnico Almundo.com",
+  "main": "server.js",
+  "repository": {},
+  "author": "Maximiliano Scalzotto",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "mongoose": "^4.8.1",
+    "nodemon": "^1.11.0",
+    "restify": "^4.3.0",
+    "swagger-restify": "^1.0.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}

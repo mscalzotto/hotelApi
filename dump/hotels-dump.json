@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "58b5d5453fbf9f29b2d052d9" }, "name" : "Hotel Emperador", "stars" : 3, "price" : 1596, "mealplan" : "only-room", "amenities" : [ "wifi", "bar" ], "__v" : 0 }
+{ "_id" : { "$oid" : "58b5d54d3fbf9f29b2d052da" }, "name" : "Petit Palace San Bernardo", "stars" : 4, "price" : 2145, "mealplan" : "breakfast", "amenities" : [ "wifi", "bar", "ac" ], "__v" : 0 }
+{ "_id" : { "$oid" : "58b5d593921c572ee979eea5" }, "name" : "Hotel Nuevo Boston", "stars" : 2, "price" : 816, "mealplan" : "only-room", "amenities" : [ "ac" ], "__v" : 0 }
